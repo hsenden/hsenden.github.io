@@ -6,3 +6,4 @@ Hallo
 
 abc
 
+![Testplaatje](./img/test.jpg)
