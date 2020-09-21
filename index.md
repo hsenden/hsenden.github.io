@@ -6,4 +6,4 @@ Hallo
 
 abc
 
-![Testplaatje](./img/test.jpg)
+![Testplaatje](/img/test.jpg)
