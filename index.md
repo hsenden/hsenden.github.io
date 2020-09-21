@@ -1,9 +1,5 @@
-Hallo
+#Welkom op deze testsite#
+Normale tekst
 
-
-
-**Welkom op deze testsite**
-
-abc
-
+En een plaatje :
 ![Testplaatje](/img/test.jpg)
